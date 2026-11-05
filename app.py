@@ -20,7 +20,7 @@ from flask import Flask, jsonify, redirect, render_template, request, url_for
 # ──────────────────────────────────────────────
 # ✏️ 여기만 바꾸면 화면 상단/하단 표시가 바뀝니다
 # ──────────────────────────────────────────────
-OWNER_NAME = "OOO"
+OWNER_NAME = "이나현"
 GITHUB_URL = "https://github.com/nahyeonnlee"
 # ──────────────────────────────────────────────
 
